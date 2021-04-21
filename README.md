@@ -5,4 +5,6 @@ Features:
 - Add Arduino support
 - Add cross-platform GUI lib
 
+You can see SonataAPI for your platform in branches
+
 You can see app example in file: example_app.cpp
